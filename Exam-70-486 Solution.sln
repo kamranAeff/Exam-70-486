@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter06", "Chapter06\Chapter06.csproj", "{91669F22-BD22-493C-A863-31F313C1A94F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter06.WebUI", "06\Chapter06.WebUI\Chapter06.WebUI.csproj", "{2A270EAD-944B-41E9-9242-2A9A7C7E0A29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06", "06", "{EAA3F8A5-DE29-4856-9A06-EC660077836E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter06", "06\Chapter06\Chapter06.csproj", "{91669F22-BD22-493C-A863-31F313C1A94F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A270EAD-944B-41E9-9242-2A9A7C7E0A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A270EAD-944B-41E9-9242-2A9A7C7E0A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A270EAD-944B-41E9-9242-2A9A7C7E0A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A270EAD-944B-41E9-9242-2A9A7C7E0A29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91669F22-BD22-493C-A863-31F313C1A94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91669F22-BD22-493C-A863-31F313C1A94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91669F22-BD22-493C-A863-31F313C1A94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -18,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A270EAD-944B-41E9-9242-2A9A7C7E0A29} = {EAA3F8A5-DE29-4856-9A06-EC660077836E}
+		{91669F22-BD22-493C-A863-31F313C1A94F} = {EAA3F8A5-DE29-4856-9A06-EC660077836E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FB43F670-33C5-45B5-A517-DC87A16655EA}
