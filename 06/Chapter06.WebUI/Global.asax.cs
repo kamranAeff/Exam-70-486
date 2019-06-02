@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using Chapter06.WebUI.AppCode.Config;
 using System.Web.Mvc;
 using System.Web.Routing;
 
@@ -13,6 +10,8 @@ namespace Chapter06.WebUI
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            DependencyResolver.SetResolver(new NinjectDependencyResolver());
         }
     }
 }

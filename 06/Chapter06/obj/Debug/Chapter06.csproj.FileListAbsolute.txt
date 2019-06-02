@@ -9,3 +9,13 @@ F:\Programming\Solutions\Exams\Exam-70-486\Chapter06\obj\Debug\Chapter06.csproj.
 F:\Programming\Solutions\Exams\Exam-70-486\Chapter06\obj\Debug\Chapter06.csproj.CopyComplete
 F:\Programming\Solutions\Exams\Exam-70-486\Chapter06\obj\Debug\Chapter06.exe
 F:\Programming\Solutions\Exams\Exam-70-486\Chapter06\obj\Debug\Chapter06.pdb
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\bin\Debug\Chapter06.exe.config
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\bin\Debug\Chapter06.exe
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\bin\Debug\Chapter06.pdb
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\bin\Debug\Ninject.pdb
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\bin\Debug\Ninject.xml
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\obj\Debug\Chapter06.csprojAssemblyReference.cache
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\obj\Debug\Chapter06.csproj.CoreCompileInputs.cache
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\obj\Debug\Chapter06.csproj.CopyComplete
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\obj\Debug\Chapter06.exe
+F:\Programming\Solutions\Exams\Exam-70-486\06\Chapter06\obj\Debug\Chapter06.pdb
